@@ -1,0 +1,15 @@
+{
+  "runtime": {
+    "majorVersion": "8"
+  },
+  "type": "web",
+  "command": "java -jar demo.jar",
+  "startupTime": "120",
+  "release": {
+    "build": "171129.1630",
+    "commit": "",
+    "version": "0.0.1"
+  },
+  "notes": "demo",
+  "mode": "rolling"
+}
